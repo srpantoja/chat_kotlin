@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "748270087559",
+    "project_id": "chat-qxd",
+    "storage_bucket": "chat-qxd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748270087559:android:735e48a77cca1ef6aaf722",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748270087559-acl33a4g5toas9v4vj0jhpugmdo9827j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQuhiQlnkk3bAWksV1N9ro_Bcaz0mIGZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748270087559-acl33a4g5toas9v4vj0jhpugmdo9827j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
